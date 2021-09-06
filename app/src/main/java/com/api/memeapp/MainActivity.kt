@@ -16,7 +16,7 @@ import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
 import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity() {
+class  MainActivity : AppCompatActivity() {
 
     private var curImage:String? = null
     override fun onCreate(savedInstanceState: Bundle?) {
